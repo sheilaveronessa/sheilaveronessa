@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheilaveronessa
 - 👀 I’m interested in all things technology
-- 🌱 I’m currently learning ServiceNow Administrator, Developer, Project Manager, JavaScript
+- 🌱 I’m currently learning ServiceNow Administration, App Developer, Project Manager, JavaScript
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me: You can reach me on https://www.linkedin.com/in/sheilaveronessa/
 - 😄 Pronouns: She/Hers
